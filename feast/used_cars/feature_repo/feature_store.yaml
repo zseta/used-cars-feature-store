@@ -6,7 +6,7 @@ provider: local
 online_store:
     type: cassandra
     hosts:
-        - 172.17.0.5
+        - 172.17.0.4
     username: scylla
     password: xxxxxxx
     keyspace: feast
